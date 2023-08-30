@@ -1,1 +1,1 @@
-my first readme
+i will excel in the program
